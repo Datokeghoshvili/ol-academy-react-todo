@@ -1,0 +1,87 @@
+
+
+
+body{
+ background-color: rgb(133, 147, 100);
+
+}
+ .displayerdiv{
+  margin-top: 100px;
+ }
+#h1{
+  display:block ;
+
+  text-align: center;
+}
+
+.input{
+  height: 20px;
+ 
+  
+}
+#addbtn{
+  background-color: green;
+  border-radius: 12%;
+  margin: 2px;
+
+}
+#delbtn{
+  background-color: red;
+  border-radius: 5%;
+  margin: 2px;
+
+
+}
+#savedtaskbtn{
+  background-color: rgba(243, 13, 124, 0.649);
+  border-radius: 5%;
+  margin: 2px;
+
+
+}
+#checkedtaskbtn{
+  background-color: tomato;
+  border-radius: 5%;
+  margin: 2px;
+
+
+}
+.divforinputtbtn{
+  
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(30, 34, 30);
+    border-radius: 20px;
+    padding: 50px;
+    
+    
+  
+}
+.markfinish{
+  background-color: green;
+  color: white;
+  font-size:15px ;
+  margin: 2px;
+
+}
+.markedit{
+  background-color: cadetblue;
+  font-size: 15px;
+  margin: 2px;
+}
+.deletebtn{
+  background-color: red;
+  font-size: 15px;
+  margin: 2px;
+
+}
+.UP{
+  background-color: olivedrab;
+  font-size: 15px;
+  margin: 2px;
+}
+.DOWN{
+  background-color: rgb(92, 94, 95);
+  font-size: 15px;
+  margin: 2px;
+}
